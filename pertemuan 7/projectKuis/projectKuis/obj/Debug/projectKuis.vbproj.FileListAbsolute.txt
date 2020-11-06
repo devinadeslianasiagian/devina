@@ -1,0 +1,12 @@
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.vbprojAssemblyReference.cache
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.Form1.resources
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.Resources.resources
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.vbproj.GenerateResource.cache
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.vbproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\bin\Debug\projectKuis.exe.config
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\bin\Debug\projectKuis.exe
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\bin\Debug\projectKuis.pdb
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\bin\Debug\projectKuis.xml
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.exe
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.xml
+C:\Users\HP Pavilion\Documents\devina\SEMESTER 3\Pemrograman Visual\pertemuan 7\projectKuis\projectKuis\obj\Debug\projectKuis.pdb
